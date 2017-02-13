@@ -1,8 +1,8 @@
-div {
+.page {
     padding: 3em;
     margin: -2em;
     height: 20%;
-    background-color: #450060;
+    background-color: #512DA8;
     box-shadow: 2px 2px 10px;
 }
 
@@ -12,4 +12,12 @@ div h1 {
     text-align: center;
     padding: both;
     margin: auto;
+}
+
+body {
+    background-color: #EDE7F6;
+}
+
+.an {
+    padding-top: 1em;
 }
