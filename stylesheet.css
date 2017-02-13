@@ -1,0 +1,12 @@
+div {
+    height: 20%;
+    background-color: #450060;
+}
+
+div h1 {
+    font-family: "Lobster", cursive;
+    color: white;
+    text-align: center;
+    padding: both;
+    margin: auto;
+}
