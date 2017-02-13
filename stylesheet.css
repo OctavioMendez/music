@@ -30,7 +30,7 @@ body {
     margin-bottom: 4px;
     font-family: "Cutive-Mono", monospace;
     color: #757575;
-    border-bottom: 2px solid #D1C4E9;
+    border-bottom: 2px solid #BDBDBD;
 }
 
 .card {
@@ -45,5 +45,9 @@ body {
 }
 
 .song {
+    list-style-type: none;
+    display: inline-block;
     font-family: "Raleway", cursive;
+    font-size: 26px;
+    color: white;
 }
