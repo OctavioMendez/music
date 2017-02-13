@@ -1,7 +1,9 @@
 div {
     padding: 3em;
+    margin: -2em;
     height: 20%;
     background-color: #450060;
+    box-shadow: 2px 2px 10px;
 }
 
 div h1 {
