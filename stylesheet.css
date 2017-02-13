@@ -18,16 +18,22 @@ body {
     background-color: #EDE7F6;
 }
 
-.an {
-    padding-top: 1em;
+.as {
+    padding-top: 2em;
+    padding-bottom: 2em;
     font-family: "Raleway", cursive;
 }
 
+.an {
+    font-family:"Cutive-Mono", monospace;
+
 .card {
-    padding: 4dp;
-    width: .80em;
+    background-color: #673AB7;
+    padding: 2em;
+    width: 80%;
     border: none;
-    border-radius: 2dp;
+    border-radius: 2px;
+    box-shadow: 2px 2px 10px;
 }
 
 .song {
