@@ -20,4 +20,16 @@ body {
 
 .an {
     padding-top: 1em;
+    font-family: "Raleway", cursive;
+}
+
+.card {
+    padding: 4dp;
+    width: .80em;
+    border: none;
+    border-radius: 2dp;
+}
+
+.song {
+    font-family: "Raleway", cursive;
 }
