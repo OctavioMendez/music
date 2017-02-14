@@ -28,7 +28,7 @@ body {
 .an {
     margin-top: 4px;
     margin-bottom: 4px;
-    font-family: "Cutive-Mono", monospace;
+    font-family: "Cutive Mono", monospace;
     color: #757575;
     border-bottom: 2px solid #BDBDBD;
 }
@@ -50,4 +50,8 @@ body {
     font-family: "Raleway", cursive;
     font-size: 26px;
     color: white;
+}
+
+.download {
+    font-family: "Cutive Mono", monospace;
 }
